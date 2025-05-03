@@ -7,6 +7,7 @@
 )_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Imran2802/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **3** Determine the highest-selling products by ranking the _[top 10](https://github.com/Imran2802/Excel-Sales-Analytics/blob/main/Top_10_Products.pdf) based on total quantity sold.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
